@@ -1,6 +1,6 @@
 ## ✨ Hey there! Welcome to my GitHub 👋
 
-<img src="https://i.postimg.cc/mkxYfJ9b/Chat-GPT-Image-12-de-jul-de-2025-11-28-41.png" width="200"/>
+<img src="https://i.postimg.cc/rmYrMbtd/Chat-GPT-Image-12-de-jul-de-2025-11-28-23-removebg-preview.png" width="200"/>
 
 ### I'm Naiane Barbosa — but you can call me **Nai** 🌻
 
