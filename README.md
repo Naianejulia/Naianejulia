@@ -1,6 +1,6 @@
 ## ✨ Hey there! Welcome to my GitHub 👋
 
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="200"/>
+<img src="https://github.com/naianejulia.png" width="200" />
 
 ### I'm Naiane Barbosa — but you can call me **Nai** 🌻
 
