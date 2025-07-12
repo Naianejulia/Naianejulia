@@ -1,21 +1,32 @@
-### Hello! Welcome to my github profile. 👋
+## ✨ Hey there! Welcome to my GitHub 👋
 
-![Avatar - sem fundo](https://user-images.githubusercontent.com/105943960/231495749-353d262f-9b7d-41b9-988c-efda7f700900.png)
+<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="200"/>
 
-## My name is Naiane Júlia and my nickname is "Nai"
+### I'm Naiane Barbosa — but you can call me **Nai** 🌻
 
--  I'm currently studying computer science, and I'm already in my third year of college!
--  I'm learning some languages ​​like java, react and javascript.
--  How to reach me - e-mail: naianejulia17@hotmail.com/ Linkedin: https://www.linkedin.com/in/naiane-j%C3%BAlia-286113191/
+🎓 I'm a Computer Science student (3rd year and counting!)  
+👩‍💻 Full-Stack Dev + Database Admin (DBA) in the making  
+🌐 I love building things with **JavaScript**, **React**, **HTML**, **Python**, and **SQL**  
+🧠 Always learning, always coding, always curious 🚀
 
+---
 
-## Ferramentas e Tecnologias
+### 🛠️ Tech Toolbox
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-                              
-## Contatos
-<div>
+<p float="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
+</p>
 
-<a href="https://www.linkedin.com/in/naiane-j%C3%BAlia-286113191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+---
 
-</div>
+### 📫 Let’s connect!
+
+- 📧 [naianejulia17@hotmail.com](mailto:naianejulia17@hotmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/naiane-j%C3%BAlia-286113191/)  
+
+> “Code like a girl. Break things like a boss.” 💥  
+
