@@ -1,17 +1,16 @@
-## ✨ Hey there! Welcome to my GitHub 👋
+##  Hey there! Welcome to my GitHub 
 
-<img src="https://i.postimg.cc/pVpcN59T/Chat-GPT-Image-12-de-jul-de-2025-11-28-23-removebg-preview-1.png" width="200"/>
 
-### I'm Naiane Barbosa — but you can call me **Nai** 🌻
+### I'm Naiane Barbosa — but you can call me **Nai** 
 
-🎓 I'm a Computer Science student (3rd year and counting!)  
-👩‍💻 Full-Stack Dev + Database Admin (DBA) in the making  
-🌐 I love building things with **JavaScript**, **React**, **HTML**, **Python**, and **SQL**  
-🧠 Always learning, always coding, always curious 🚀
+ I'm a computer scientist 
+ Full-Stack Dev + Database Admin (DBA) in the making  
+ I love building things with **JavaScript**, **React**, **HTML**, **Python**, and **SQL**  
+ Always learning, always coding, always curious 🚀
 
 ---
 
-### 🛠️ Tech Toolbox
+### Tech Toolbox
 
 <p float="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
