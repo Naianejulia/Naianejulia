@@ -22,10 +22,10 @@
 
 ---
 
-### 📫 Let’s connect!
+###  Let’s connect!
 
 - 📧 [naiane.depaula.barbosa@gmail.com](mailto:naiane.depaula.barbosa@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/naiane-j%C3%BAlia-286113191/)  
+-  [LinkedIn](https://www.linkedin.com/in/naiane-j%C3%BAlia-286113191/)  
 
-> “Code like a girl. Break things like a boss.” 💥  
+> “Code like a girl.” 
 
