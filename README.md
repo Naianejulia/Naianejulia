@@ -18,7 +18,7 @@
 ##  Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,mysql,git,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,mysql,git,vscode" />
 </p>
 
 <p align="center">
@@ -31,18 +31,9 @@
 
 <p align="center">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=278E506DD8D3CA4DCB933CC53D5A8606B444627E0F17634FE97FB72F1EC8A567">
-    <img src="https://i.imgur.com/Sjq80bP.png" width="220"/>
+    <img src="https://imgur.com/tjU6KPQ.png" width="220"/>
   </a>
 </p>
----
-
-##  GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Naianejulia&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="150" src="https://streak-stats.demolab.com/?user=Naianejulia&theme=tokyonight"/>
-</p>
-
 ---
 
 ##  Contato
