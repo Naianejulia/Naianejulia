@@ -31,17 +31,16 @@
 
 <p align="center">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=278E506DD8D3CA4DCB933CC53D5A8606B444627E0F17634FE97FB72F1EC8A567">
-    <img src="https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge&logo=oracle&logoColor=white"/>
+    <img src="https://i.imgur.com/Sjq80bP.png" width="220"/>
   </a>
 </p>
-
 ---
 
-## GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Naianejulia&show_icons=true&theme=tokyonight"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Naianejulia&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Naianejulia&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="150" src="https://streak-stats.demolab.com/?user=Naianejulia&theme=tokyonight"/>
 </p>
 
 ---
@@ -54,5 +53,5 @@
 ---
 
 <p align="center">
-  <i>"Code like a girl." 💜</i>
+  <i>"Code like a girl." </i>
 </p>
