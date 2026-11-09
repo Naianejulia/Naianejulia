@@ -1,48 +1,48 @@
-<h1 align="center"> Naiane Barbosa</h1>
+## Naiane Barbosa
 
-<p align="center">
-  Full-Stack Developer • ABAP Developer • Database Enthusiast
-</p>
+**Full-Stack & ABAP Developer** · Recife, PE  
+Ciência da Computação · Mestranda · Alphaplast
 
----
-##  Sobre mim
+Transformo ideias em código, do banco de dados à interface.  
+<sub><i>I turn ideas into code, from the database to the interface.</i></sub>
 
- Formada em **Ciência da Computação**  
- Atualmente cursando **Mestrado**  
- Experiência com desenvolvimento **ABAP (SAP)**  
- Apaixonada por tecnologia, dados e construção de soluções reais  
- Sempre buscando evoluir e transformar ideias em código.
+<br/>
 
----
+#### Sobre mim <sub>· about</sub>
 
-##  Tecnologias & Ferramentas
+- Formada em **Ciência da Computação**, cursando **Mestrado** <sub><i>— B.Sc. in Computer Science, currently pursuing a Master's</i></sub>
+- Desenvolvedora **ABAP (SAP)** na Alphaplast <sub><i>— ABAP (SAP) developer at Alphaplast</i></sub>
+- Interesse em dados, bancos de dados e soluções reais <sub><i>— into data, databases and real-world solutions</i></sub>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,mysql,git,vscode" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ABAP-SAP-blue?style=for-the-badge&logo=sap&logoColor=white"/>
-</p>
+#### Stack
 
----
+| | |
+|:--|:--|
+| **Linguagens** <sub>languages</sub> | JavaScript · Python · SQL · ABAP |
+| **Front-end** | React · HTML · CSS |
+| **Dados** <sub>data</sub> | MySQL · Oracle Cloud |
+| **Ferramentas** <sub>tools</sub> | SAP · Git · VS Code |
 
-##  Certificações
+<br/>
 
-<p align="center">
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=278E506DD8D3CA4DCB933CC53D5A8606B444627E0F17634FE97FB72F1EC8A567">
-    <img src="https://imgur.com/tjU6KPQ.png" width="220"/>
-  </a>
-</p>
----
+#### Certificações <sub>· certifications</sub>
 
-##  Contato
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=278E506DD8D3CA4DCB933CC53D5A8606B444627E0F17634FE97FB72F1EC8A567"><img src="https://imgur.com/tjU6KPQ.png" width="56" align="left" /></a>
 
-📧 naiane.depaula.barbosa@gmail.com  
-🔗 [LinkedIn](#)  
+**Oracle Cloud Infrastructure Data Science Professional**  
+Oracle · 2025
 
----
+<br clear="left"/>
+<br/>
 
-<p align="center">
+#### Contato <sub>· contact</sub>
+
+[naiane.depaula.barbosa@gmail.com](mailto:naiane.depaula.barbosa@gmail.com) · [LinkedIn](https://www.linkedin.com/in/naiane-j%C3%BAlia-286113191)
+
+<br/>
+
+<sub><i>“Code like a girl.”</i></sub>
   <i>"Code like a girl." </i>
 </p>
